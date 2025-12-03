@@ -78,7 +78,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ramizzz8&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramizzz8&theme=dark&hide_border=true"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ramizzz8&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
