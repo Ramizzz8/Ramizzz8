@@ -11,9 +11,15 @@
 ###
 
 <div align="center">
+  <a href= "https://www.linkedin.com/in/andresrague-undefined-011936349/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:ajulianrague@gmail.com?subject=Consulta%20desde%20tu%20portafolio&body=Hola%20Andr%C3%A9s%2C%20me%20gustar%C3%ADa%20hablar%20he%20visto%20tu%20perfil%20de%20github...">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://dev.to/ramizzz8">
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  </a>
 </div>
 
 ###
@@ -24,7 +30,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mi</h3>
+<h3 align="left">👩‍💻  Sobre mí</h3>
 
 ###
 
