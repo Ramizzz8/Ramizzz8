@@ -1,3 +1,21 @@
+<style>
+    .trabajos{
+            margin: 20px;
+            background-color: #1b273b;
+            border-radius: 10px;
+            border-radius: 5px;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            transition: box-shadow 0.3s;
+            max-width: 800px;
+            margin: 50px auto;
+        }
+          .trabajos:hover {
+            box-shadow: 0 8px 16px rgba(255, 255, 255, 0.3);
+            background-color: #243148;
+          }
+</style>
+<main>
 <br clear="both">
 
 <div align="center">
@@ -81,3 +99,4 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ramizzz8&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+</main>
